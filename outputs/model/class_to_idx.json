@@ -1,0 +1,6 @@
+{
+  "hazardous": 0,
+  "non-recyclable": 1,
+  "organic": 2,
+  "recyclable": 3
+}

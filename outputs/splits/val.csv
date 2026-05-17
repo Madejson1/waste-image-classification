@@ -1,0 +1,439 @@
+image_path,label,file_name,file_size_kb,is_valid,width,height,channels
+data\raw\Hazardous\e-waste\eWaste - Copy.jpg,hazardous,eWaste - Copy.jpg,121.77,True,1000,675,3
+data\raw\Non-Recyclable\sanitary_napkin\vagina-vulva-1296x728-header.jpg,non-recyclable,vagina-vulva-1296x728-header.jpg,51.9,True,1296,728,3
+data\raw\Organic\food_scraps\Trashed_vegetables_in_Luxembourg.jpeg,organic,Trashed_vegetables_in_Luxembourg.jpeg,766.59,True,2048,1536,3
+data\raw\Non-Recyclable\diapers\cloth-vs-disposable-diaper-top-2x1-lowres1024-.jpg,non-recyclable,cloth-vs-disposable-diaper-top-2x1-lowres1024-.jpg,72.53,True,1024,512,3
+data\raw\Non-Recyclable\stroform_product\food-packaging-report.jpg,non-recyclable,food-packaging-report.jpg,349.3,True,1920,1282,3
+data\raw\Non-Recyclable\diapers\10582_1.jpg,non-recyclable,10582_1.jpg,175.51,True,1000,1000,3
+data\raw\Organic\kitchen_waste\garbage-crisis-swachh-india.jpg,organic,garbage-crisis-swachh-india.jpg,38.34,True,1052,526,3
+data\raw\Hazardous\e-waste\1200px-Ewaste-pile - Copy.jpg,hazardous,1200px-Ewaste-pile - Copy.jpg,384.33,True,1200,1600,3
+data\raw\Organic\food_scraps\FoodScraps_667731404_Feature.jpg,organic,FoodScraps_667731404_Feature.jpg,782.18,True,2400,1350,3
+data\raw\Organic\coffee_tea_bags\EwRibzWW8AMwyeP.jpg,organic,EwRibzWW8AMwyeP.jpg,35.33,True,506,254,3
+data\raw\Non-Recyclable\sanitary_napkin\sustainability-10-04146-g001-550.jpg,non-recyclable,sustainability-10-04146-g001-550.jpg,33.21,True,550,187,3
+data\raw\Organic\food_scraps\collecting-food-scraps-4-compost-640s.jpg,organic,collecting-food-scraps-4-compost-640s.jpg,151.67,True,640,640,3
+data\raw\Hazardous\paints\Screen-Shot-2022-09-22-at-12.37.23-PM-568x400.png,hazardous,Screen-Shot-2022-09-22-at-12.37.23-PM-568x400.png,288.56,True,568,400,3
+data\raw\Hazardous\e-waste\page_1 - Copy.jpg,hazardous,page_1 - Copy.jpg,225.09,True,1156,1496,3
+data\raw\Non-Recyclable\sanitary_napkin\stock-photo-women-s-pads-pattern-feminine-hygiene-items-2269418989.jpg,non-recyclable,stock-photo-women-s-pads-pattern-feminine-hygiene-items-2269418989.jpg,208.65,True,1500,850,3
+data\raw\Non-Recyclable\ceramic_product\1000_F_180506836_FCGcDt6J9w5QbR2FrUHHhvjxbdICxNT2.jpg,non-recyclable,1000_F_180506836_FCGcDt6J9w5QbR2FrUHHhvjxbdICxNT2.jpg,566.71,True,1000,667,3
+data\raw\Organic\kitchen_waste\foodwaste_custom-419d4cfb36e0fc8ed48fe293b8c1d2bb6aba670d.jpg,organic,foodwaste_custom-419d4cfb36e0fc8ed48fe293b8c1d2bb6aba670d.jpg,1801.06,True,2000,1353,3
+data\raw\Hazardous\batteries\un3480.png,hazardous,un3480.png,234.05,True,640,587,3
+data\raw\Recyclable\glass_containers\09706-cover-bottlescxd.jpg,recyclable,09706-cover-bottlescxd.jpg,2593.51,True,2000,1333,3
+data\raw\Recyclable\plastic_bottles\zk2uCsZ0-plastic-bottles.jpg,recyclable,zk2uCsZ0-plastic-bottles.jpg,533.52,True,745,500,3
+data\raw\Hazardous\pesticides\pesticide2.jpg,hazardous,pesticide2.jpg,45.15,True,320,217,3
+data\raw\Recyclable\cans_all_type\aluminum-recycling.jpg,recyclable,aluminum-recycling.jpg,80.47,True,800,400,3
+data\raw\Recyclable\plastic_bottles\soda-bottle-2308606.jpg,recyclable,soda-bottle-2308606.jpg,57.22,True,1200,1690,3
+data\raw\Recyclable\plastic_bottles\bottles3-kEpF--621x414LiveMint.JPG.jpg,recyclable,bottles3-kEpF--621x414LiveMint.JPG.jpg,39.21,True,621,414,3
+data\raw\Organic\coffee_tea_bags\post-everything-bread-tea-bags-coffee-grounds-i-even-dump-out-my-old-quote-1.jpg,organic,post-everything-bread-tea-bags-coffee-grounds-i-even-dump-out-my-old-quote-1.jpg,65.47,True,620,800,3
+data\raw\Hazardous\batteries\batteries-04-00007-g002.png,hazardous,batteries-04-00007-g002.png,2023.29,True,2390,2211,3
+data\raw\Recyclable\glass_containers\19-Innovative-Simple-and-Beautiful-DIY-Glass-Bottle-Decor-Ideas.jpg,recyclable,19-Innovative-Simple-and-Beautiful-DIY-Glass-Bottle-Decor-Ideas.jpg,35.55,True,600,350,3
+data\raw\Organic\yard_trimmings\yard-waste-pick-up.jpg,organic,yard-waste-pick-up.jpg,168.73,True,1440,420,3
+data\raw\Non-Recyclable\platics_bags_wrappers\1587685798451.jpg,non-recyclable,1587685798451.jpg,54.9,True,710,399,3
+data\raw\Hazardous\paints\INF6348-Hazardous-Waste-banner-855x380-4-v2__ResizedImageWzg5MCwzOTZd.jpg,hazardous,INF6348-Hazardous-Waste-banner-855x380-4-v2__ResizedImageWzg5MCwzOTZd.jpg,66.17,True,890,396,3
+data\raw\Hazardous\pesticides\fmicb-13-962619-g001.jpg,hazardous,fmicb-13-962619-g001.jpg,400.61,True,4543,2305,3
+data\raw\Non-Recyclable\diapers\image8-1638302456823_1200x.jpg,non-recyclable,image8-1638302456823_1200x.jpg,141.18,True,1010,720,3
+data\raw\Recyclable\plastic_bottles\01_bottle_mm9070_190418_2400-2_16x9.jpg,recyclable,01_bottle_mm9070_190418_2400-2_16x9.jpg,1401.46,True,3072,1728,3
+data\raw\Hazardous\pesticides\rganic-ecological-agriculture-spray-pesticides-pesticide-on-fruit-1512406559.jpg,hazardous,rganic-ecological-agriculture-spray-pesticides-pesticide-on-fruit-1512406559.jpg,2112.52,True,1500,1101,3
+data\raw\Non-Recyclable\platics_bags_wrappers\wasteplastic750px.jpg,non-recyclable,wasteplastic750px.jpg,232.96,True,750,500,3
+data\raw\Hazardous\e-waste\set-different-types-light-bulbs-incandescent-compact-fluorescent-lamp_223337-667 - Copy.jpg,hazardous,set-different-types-light-bulbs-incandescent-compact-fluorescent-lamp_223337-667 - Copy.jpg,30.38,True,418,626,3
+data\raw\Hazardous\e-waste\8085.jpg,hazardous,8085.jpg,29.77,True,560,420,3
+data\raw\Organic\food_scraps\81333635.jpg,organic,81333635.jpg,77.29,True,1200,900,3
+data\raw\Organic\food_scraps\AdobeStock_550660149_428fd902f4247199467725e7eccf1673.jpeg,organic,AdobeStock_550660149_428fd902f4247199467725e7eccf1673.jpeg,75.89,True,735,414,3
+data\raw\Hazardous\e-waste\archives-ewaste-one_one.jpg,hazardous,archives-ewaste-one_one.jpg,392.99,True,1200,1200,3
+data\raw\Recyclable\cans_all_type\assorted-cans-campbell-s-brand-soup-shopping-cart-assorted-cans-campbell-s-brand-soup-151033750.jpg,recyclable,assorted-cans-campbell-s-brand-soup-shopping-cart-assorted-cans-campbell-s-brand-soup-151033750.jpg,86.02,True,600,900,3
+data\raw\Hazardous\e-waste\20_20130315.jpg,hazardous,20_20130315.jpg,47.54,True,457,432,3
+data\raw\Organic\food_scraps\Food-Wastage.jpg,organic,Food-Wastage.jpg,212.68,True,1500,999,3
+data\raw\Hazardous\e-waste\cfl-product-family.png,hazardous,cfl-product-family.png,166.43,True,720,405,3
+data\raw\Hazardous\paints\aerosolrecycling.jpg,hazardous,aerosolrecycling.jpg,359.81,True,1600,900,3
+data\raw\Hazardous\e-waste\abfall-ressourcen_produktverantwortung_elektronikaltgeraete_foto_fernseher-berg - Copy.jpg,hazardous,abfall-ressourcen_produktverantwortung_elektronikaltgeraete_foto_fernseher-berg - Copy.jpg,143.94,True,800,400,3
+data\raw\Recyclable\cans_all_type\20170221152145.png,recyclable,20170221152145.png,367.17,True,560,400,3
+data\raw\Hazardous\paints\Paints-Varnishes-Hero.jpg,hazardous,Paints-Varnishes-Hero.jpg,116.54,True,700,700,3
+data\raw\Organic\food_scraps\Samad-lede.jpg,organic,Samad-lede.jpg,1068.27,True,2560,1440,3
+data\raw\Hazardous\e-waste\ectronic-gadgets-devices-on-white-table-e-waste-planned-obsolescence-2KF1CDY - Copy.jpg,hazardous,ectronic-gadgets-devices-on-white-table-e-waste-planned-obsolescence-2KF1CDY - Copy.jpg,78.79,True,1300,956,3
+data\raw\Organic\kitchen_waste\ro-waste-packaging-fresh-raw-food-seasonal-vegetables-home-kitchen-176734460.jpg,organic,ro-waste-packaging-fresh-raw-food-seasonal-vegetables-home-kitchen-176734460.jpg,42.7,True,800,534,3
+data\raw\Non-Recyclable\diapers\-garbage-pail-disposing-of-used-baby-nappies-environmental-impact-2084386903.jpg,non-recyclable,-garbage-pail-disposing-of-used-baby-nappies-environmental-impact-2084386903.jpg,296.53,True,998,1600,3
+data\raw\Hazardous\e-waste\post_lighting_waste - Copy.png,hazardous,post_lighting_waste - Copy.png,5170.35,True,2240,1260,3
+data\raw\Hazardous\paints\IMG_2667-scaled.jpeg,hazardous,IMG_2667-scaled.jpeg,672.77,True,2560,1920,3
+data\raw\Recyclable\cans_all_type\crumpled-aluminum-can-empty-can-aluminum-can-isolated-white-background_38335-161.jpg,recyclable,crumpled-aluminum-can-empty-can-aluminum-can-isolated-white-background_38335-161.jpg,57.26,True,626,417,3
+data\raw\Hazardous\e-waste\_elektroschrott_hardware_kp_1200_a97c5f3517_8f5684198f6489c7d84856d3efe3ad10 - Copy.jpg,hazardous,_elektroschrott_hardware_kp_1200_a97c5f3517_8f5684198f6489c7d84856d3efe3ad10 - Copy.jpg,144.35,True,1200,545,3
+data\raw\Hazardous\e-waste\t-diverse-old-halogen-and-fluorescent-light-bulbs-in-and-around-a-2197969345.jpg,hazardous,t-diverse-old-halogen-and-fluorescent-light-bulbs-in-and-around-a-2197969345.jpg,307.88,True,1500,1101,3
+data\raw\Hazardous\pesticides\icide-spray-lettuce-iceberg-field-sunset-insecticides-agricultural-180035011.jpg,hazardous,icide-spray-lettuce-iceberg-field-sunset-insecticides-agricultural-180035011.jpg,206.9,True,1600,990,3
+data\raw\Non-Recyclable\sanitary_napkin\DT_Banner.png,non-recyclable,DT_Banner.png,455.6,True,740,450,3
+data\raw\Non-Recyclable\diapers\61VUeyU0dbL._AC_UF8941000_QL80_.jpg,non-recyclable,61VUeyU0dbL._AC_UF8941000_QL80_.jpg,42.14,True,716,1000,3
+data\raw\Organic\food_scraps\kitchen-waste.jpg,organic,kitchen-waste.jpg,94.45,True,1000,667,3
+data\raw\Non-Recyclable\stroform_product\87badfbfd09864be43a29dfc7a906b9b.jpg,non-recyclable,87badfbfd09864be43a29dfc7a906b9b.jpg,62.34,True,375,240,3
+data\raw\Recyclable\paper_products\cardboard_bales.png,recyclable,cardboard_bales.png,2314.03,True,1500,1000,3
+data\raw\Organic\egg_shells\grinding-eggshells-2x.jpg,organic,grinding-eggshells-2x.jpg,87.32,True,750,350,3
+data\raw\Recyclable\plastic_bottles\maxresdefault.jpg,recyclable,maxresdefault.jpg,110.65,True,1280,720,3
+data\raw\Recyclable\cans_all_type\steel-soup-can-opened-CC8AXM.jpg,recyclable,steel-soup-can-opened-CC8AXM.jpg,97.7,True,866,1390,3
+data\raw\Hazardous\e-waste\maxresdefault2 - Copy.jpg,hazardous,maxresdefault2 - Copy.jpg,156.22,True,1280,720,3
+data\raw\Recyclable\plastic_bottles\drink-6537028_640.jpg,recyclable,drink-6537028_640.jpg,48.7,True,640,427,3
+data\raw\Hazardous\pesticides\pesticides_og.jpg,hazardous,pesticides_og.jpg,111.88,True,1024,512,3
+data\raw\Organic\egg_shells\upcycled-eggshells_Personal-Creations.jpg,organic,upcycled-eggshells_Personal-Creations.jpg,50.77,True,800,462,3
+data\raw\Hazardous\pesticides\latest-technical-book-on-insecticides-and-pesticides-hindi-original-imafvq28xeq9mwhd.jpeg,hazardous,latest-technical-book-on-insecticides-and-pesticides-hindi-original-imafvq28xeq9mwhd.jpeg,214.97,True,645,1000,3
+data\raw\Non-Recyclable\stroform_product\shutterstock_1027804891-scaled-1.jpg,non-recyclable,shutterstock_1027804891-scaled-1.jpg,259.42,True,2560,1709,3
+data\raw\Non-Recyclable\platics_bags_wrappers\2j44bec.jpg,non-recyclable,2j44bec.jpg,46.64,True,450,320,3
+data\raw\Hazardous\pesticides\bioengineering-08-00092-g001.png,hazardous,bioengineering-08-00092-g001.png,785.1,True,3161,1741,3
+data\raw\Hazardous\e-waste\1-compact-fluorescent-bird-lamp-full-spectrum-lighting-bulb-2-4-original-imag9836wgsrnaev - Copy.jpeg,hazardous,1-compact-fluorescent-bird-lamp-full-spectrum-lighting-bulb-2-4-original-imag9836wgsrnaev - Copy.jpeg,62.89,True,850,826,3
+data\raw\Hazardous\e-waste\Electronic-waste-management.jpg,hazardous,Electronic-waste-management.jpg,67.0,True,1200,667,3
+data\raw\Non-Recyclable\stroform_product\250783690442929992.jpg,non-recyclable,250783690442929992.jpg,29.78,True,560,400,3
+data\raw\Hazardous\e-waste\BulbSchematic - Copy.jpg,hazardous,BulbSchematic - Copy.jpg,107.83,True,313,488,3
+data\raw\Recyclable\plastic_bottles\GettyImages-1250476314.jpg,recyclable,GettyImages-1250476314.jpg,479.25,True,2400,1600,3
+data\raw\Organic\egg_shells\Used-coffee-grounds-and-eggshells_Juver_shutterstock.jpg,organic,Used-coffee-grounds-and-eggshells_Juver_shutterstock.jpg,119.27,True,810,540,3
+data\raw\Organic\coffee_tea_bags\81T4CniZrgL._AC_UF10001000_QL80_.jpg,organic,81T4CniZrgL._AC_UF10001000_QL80_.jpg,101.05,True,703,1000,3
+data\raw\Organic\coffee_tea_bags\6431022e1d17017586242883-sumdirect-disposable-tea-filter-bags.jpg,organic,6431022e1d17017586242883-sumdirect-disposable-tea-filter-bags.jpg,267.86,True,1460,1374,3
+data\raw\Organic\food_scraps\DSC_0543.jpg,organic,DSC_0543.jpg,2489.01,True,2048,2048,3
+data\raw\Hazardous\e-waste\cfllightbulbs - Copy.jpg,hazardous,cfllightbulbs - Copy.jpg,37.66,True,324,299,3
+data\raw\Organic\yard_trimmings\STORM-DRAIN_WOMAN-SWEEPING.jpg,organic,STORM-DRAIN_WOMAN-SWEEPING.jpg,5708.4,True,4000,3000,3
+data\raw\Non-Recyclable\platics_bags_wrappers\3520_428fd902f4247199467725e7eccf1673.jpg,non-recyclable,3520_428fd902f4247199467725e7eccf1673.jpg,262.92,True,735,414,3
+data\raw\Organic\kitchen_waste\growing-your-own-herbs.jpg,organic,growing-your-own-herbs.jpg,42.15,True,480,360,3
+data\raw\Hazardous\paints\jp33a6-3.jpg,hazardous,jp33a6-3.jpg,422.93,True,800,811,3
+data\raw\Non-Recyclable\diapers\en-img-education-thumb-01-mb.jpg,non-recyclable,en-img-education-thumb-01-mb.jpg,184.31,True,768,768,3
+data\raw\Recyclable\cans_all_type\EWG-report-reveals-brands-using-BPA-in-canned-food.jpg,recyclable,EWG-report-reveals-brands-using-BPA-in-canned-food.jpg,78.48,True,749,1123,3
+data\raw\Hazardous\paints\sia-paint-solvents-1.jpg,hazardous,sia-paint-solvents-1.jpg,224.83,True,720,540,3
+data\raw\Non-Recyclable\ceramic_product\Beer_bottles_2018_G1.jpg,non-recyclable,Beer_bottles_2018_G1.jpg,3440.98,True,4800,3600,3
+data\raw\Recyclable\plastic_bottles\WEBDasani-Sprite-Fesca-Seagrams--Mello-Yellow.png,recyclable,WEBDasani-Sprite-Fesca-Seagrams--Mello-Yellow.png,956.27,True,1170,626,3
+data\raw\Recyclable\cans_all_type\New-RepBan_CannedFood_2007.jpg,recyclable,New-RepBan_CannedFood_2007.jpg,166.65,True,1280,720,3
+data\raw\Hazardous\paints\buckets-with-paint-dirty-glass-jars-brushes-spray-gun-solvents-and-other-art-supplies-2R3WH8J.jpg,hazardous,buckets-with-paint-dirty-glass-jars-brushes-spray-gun-solvents-and-other-art-supplies-2R3WH8J.jpg,111.45,True,1300,957,3
+data\raw\Recyclable\cans_all_type\Tomato-Bisque-ERA-scaled.jpg,recyclable,Tomato-Bisque-ERA-scaled.jpg,642.27,True,2560,1920,3
+data\raw\Hazardous\batteries\Types-of-rechargeable-batteries-.jpg,hazardous,Types-of-rechargeable-batteries-.jpg,45.01,True,698,564,3
+data\raw\Non-Recyclable\ceramic_product\Your-Complete-Guide-to-Safely-Disposing-of-Broken-Glass-1-y8t9a48ynxihx5k9r33im8.jpg,non-recyclable,Your-Complete-Guide-to-Safely-Disposing-of-Broken-Glass-1-y8t9a48ynxihx5k9r33im8.jpg,140.37,True,1024,500,3
+data\raw\Non-Recyclable\sanitary_napkin\9641z.jpg,non-recyclable,9641z.jpg,154.88,True,1600,1600,3
+data\raw\Organic\yard_trimmings\how-to-use-grass-clippings.jpg,organic,how-to-use-grass-clippings.jpg,74.38,True,650,471,3
+data\raw\Organic\kitchen_waste\food_waste_750.jpg,organic,food_waste_750.jpg,184.31,True,750,468,3
+data\raw\Hazardous\paints\CitrusSolvent_Collection_RealMilkPaintCo_Web_2019_b4440ba8-7140-4254-8c06-eb0c61a89993.jpg,hazardous,CitrusSolvent_Collection_RealMilkPaintCo_Web_2019_b4440ba8-7140-4254-8c06-eb0c61a89993.jpg,90.21,True,1000,1000,3
+data\raw\Non-Recyclable\sanitary_napkin\1200px-thumbnail.jpg,non-recyclable,1200px-thumbnail.jpg,348.41,True,1200,441,3
+data\raw\Hazardous\e-waste\Parts_of_CFL_large - Copy.jpg,hazardous,Parts_of_CFL_large - Copy.jpg,160.06,True,521,982,3
+data\raw\Hazardous\pesticides\pesticide.jpg,hazardous,pesticide.jpg,198.67,True,665,421,3
+data\raw\Hazardous\e-waste\e-waste4.jpg,hazardous,e-waste4.jpg,182.67,True,1200,700,3
+data\raw\Recyclable\paper_products\stack-of-newspapers-outdoors.jpg,recyclable,stack-of-newspapers-outdoors.jpg,42.85,True,990,660,3
+data\raw\Non-Recyclable\ceramic_product\why-does-ceramic-break-glass.jpg,non-recyclable,why-does-ceramic-break-glass.jpg,59.01,True,1200,700,3
+data\raw\Non-Recyclable\sanitary_napkin\toilet-sign-allowed-throw-napkin-paper-pads-towel-in-waste-basket-2156580309.jpg,non-recyclable,toilet-sign-allowed-throw-napkin-paper-pads-towel-in-waste-basket-2156580309.jpg,172.62,True,1500,1000,3
+data\raw\Hazardous\paints\Recycled_solvent_or_virgin_maratek-881x588.jpg,hazardous,Recycled_solvent_or_virgin_maratek-881x588.jpg,48.95,True,881,588,3
+data\raw\Organic\kitchen_waste\Plant-based-functional-food-ingredients-scrutinised-in-Pro-Enrich-project.jpg,organic,Plant-based-functional-food-ingredients-scrutinised-in-Pro-Enrich-project.jpg,102.7,True,750,487,3
+data\raw\Recyclable\cans_all_type\different-types-canned-food-illustration-600w-604738256.jpg,recyclable,different-types-canned-food-illustration-600w-604738256.jpg,67.58,True,600,423,3
+data\raw\Recyclable\cans_all_type\012893089_1-b80c05baee89d6658162d41907fc5880-768x994.png,recyclable,012893089_1-b80c05baee89d6658162d41907fc5880-768x994.png,169.1,True,768,994,3
+data\raw\Recyclable\cans_all_type\g-eco-friendly-concept-recyclable-metal-waste-and-zero-waste-concept-2K0FCNX.jpg,recyclable,g-eco-friendly-concept-recyclable-metal-waste-and-zero-waste-concept-2K0FCNX.jpg,94.13,True,1300,989,3
+data\raw\Organic\food_scraps\aa-Cover-74rf5oelkbaeo8j1kmiamu31v7-20171227011258.Medi.jpeg,organic,aa-Cover-74rf5oelkbaeo8j1kmiamu31v7-20171227011258.Medi.jpeg,95.25,True,800,448,3
+data\raw\Organic\kitchen_waste\643178-1550857201.jpg,organic,643178-1550857201.jpg,47.65,True,700,394,3
+data\raw\Recyclable\paper_products\cardboard-box-packing-peanuts-GettyImages-177495280-MLedit.jpg,recyclable,cardboard-box-packing-peanuts-GettyImages-177495280-MLedit.jpg,205.68,True,2400,1600,3
+data\raw\Hazardous\pesticides\0.42889600_1581698919_59.jpg,hazardous,0.42889600_1581698919_59.jpg,90.46,True,1024,368,3
+data\raw\Hazardous\e-waste\Solutions-to-e-waste-problems1 - Copy.jpg,hazardous,Solutions-to-e-waste-problems1 - Copy.jpg,187.96,True,1000,563,3
+data\raw\Non-Recyclable\sanitary_napkin\Disposing-of-Your-Hygiene-Products-Safely.jpg,non-recyclable,Disposing-of-Your-Hygiene-Products-Safely.jpg,86.27,True,1600,900,3
+data\raw\Organic\kitchen_waste\vermicomposting-1536x1028-1.jpg,organic,vermicomposting-1536x1028-1.jpg,428.95,True,1536,1028,3
+data\raw\Hazardous\paints\Untitled_design_51.png,hazardous,Untitled_design_51.png,2435.62,True,1640,924,3
+data\raw\Non-Recyclable\sanitary_napkin\-various-feminine-hygiene-products-zero-waste-objects-panties-pads_602734-60.jpg,non-recyclable,-various-feminine-hygiene-products-zero-waste-objects-panties-pads_602734-60.jpg,68.92,True,626,626,3
+data\raw\Recyclable\cans_all_type\ns-to-be-used-for-storage-of-products-are-being-displayed-in-the-expo-RXCE9N.jpg,recyclable,ns-to-be-used-for-storage-of-products-are-being-displayed-in-the-expo-RXCE9N.jpg,168.79,True,1300,821,3
+data\raw\Non-Recyclable\ceramic_product\1-s2.0-S0959652618312502-egi10VHWB78ZW0.jpg,non-recyclable,1-s2.0-S0959652618312502-egi10VHWB78ZW0.jpg,29.43,True,500,200,3
+data\raw\Non-Recyclable\stroform_product\food-packaging-tip-sheet.jpg,non-recyclable,food-packaging-tip-sheet.jpg,183.54,True,780,997,3
+data\raw\Non-Recyclable\ceramic_product\WDPRGPFC001b-Waste-Broken-Glass-n-Ceramic-Pieces-Living-2-scaled.jpg,non-recyclable,WDPRGPFC001b-Waste-Broken-Glass-n-Ceramic-Pieces-Living-2-scaled.jpg,477.37,True,2560,2003,3
+data\raw\Recyclable\paper_products\the-drive-toward-sustainability-5050-1536x1536.jpg,recyclable,the-drive-toward-sustainability-5050-1536x1536.jpg,80.22,True,1536,1536,3
+data\raw\Organic\food_scraps\kisspng-drawing-tree-apple-clip-art-food-scraps-5b1a04b3888213.1340075715284317955592.jpg,organic,kisspng-drawing-tree-apple-clip-art-food-scraps-5b1a04b3888213.1340075715284317955592.jpg,238.33,True,900,1040,3
+data\raw\Recyclable\paper_products\glass-containers-recycling-bin.jpg,recyclable,glass-containers-recycling-bin.jpg,188.31,True,1597,1600,3
+data\raw\Non-Recyclable\sanitary_napkin\c0259187-800px-wm.jpg,non-recyclable,c0259187-800px-wm.jpg,86.85,True,800,535,3
+data\raw\Organic\egg_shells\Eggshells-and-Other-Food-Waste-on-Compost-Pile.jpg,organic,Eggshells-and-Other-Food-Waste-on-Compost-Pile.jpg,71.42,True,800,533,3
+data\raw\Recyclable\cans_all_type\beverage20drink20cans.jpg,recyclable,beverage20drink20cans.jpg,79.59,True,500,331,3
+data\raw\Hazardous\paints\Methylated-rubber2_pdp_Thinners-1.jpg,hazardous,Methylated-rubber2_pdp_Thinners-1.jpg,79.31,True,1200,1200,3
+data\raw\Hazardous\e-waste\e-waste-2049017_1280.jpg,hazardous,e-waste-2049017_1280.jpg,348.09,True,1280,851,3
+data\raw\Hazardous\e-waste\Fluorescent-Bulbs-in-Trash-2-e1434205961573 - Copy.jpg,hazardous,Fluorescent-Bulbs-in-Trash-2-e1434205961573 - Copy.jpg,84.96,True,1170,780,3
+data\raw\Organic\yard_trimmings\YardWasteHeaderImage.jpg,organic,YardWasteHeaderImage.jpg,1151.98,True,2340,900,3
+data\raw\Recyclable\cans_all_type\up-photo-such-as-gumbo-soup-green-olives-original-decoration-store-215048708.jpg,recyclable,up-photo-such-as-gumbo-soup-green-olives-original-decoration-store-215048708.jpg,211.82,True,1600,1157,3
+data\raw\Hazardous\e-waste\Electronic-Waste-E-Waste-WEEE - Copy.jpg,hazardous,Electronic-Waste-E-Waste-WEEE - Copy.jpg,233.45,True,1920,1282,3
+data\raw\Recyclable\paper_products\csm_Honig_Grasskarton_KarlKnauer_bd119781e6.jpg,recyclable,csm_Honig_Grasskarton_KarlKnauer_bd119781e6.jpg,94.49,True,770,434,3
+data\raw\Organic\yard_trimmings\leaves-branches-clippings-and-yard-waste-in-clear-bags-and-blue-barrels-BAJ6R7.jpg,organic,leaves-branches-clippings-and-yard-waste-in-clear-bags-and-blue-barrels-BAJ6R7.jpg,408.55,True,1300,1055,3
+data\raw\Non-Recyclable\diapers\ZbAzUBfb1th1EGMXQqMRogPdjRRfwc8q7VCHQsjz.jpg,non-recyclable,ZbAzUBfb1th1EGMXQqMRogPdjRRfwc8q7VCHQsjz.jpg,46.39,True,800,500,3
+data\raw\Organic\yard_trimmings\garden-clearance-3.jpg,organic,garden-clearance-3.jpg,46.62,True,500,318,3
+data\raw\Hazardous\e-waste\09109-scicon-lightbulbcxd.jpg,hazardous,09109-scicon-lightbulbcxd.jpg,105.68,True,423,700,3
+data\raw\Non-Recyclable\diapers\05_5d6dfe6d-8164-49c4-951c-11cf82c8d19b.jpg,non-recyclable,05_5d6dfe6d-8164-49c4-951c-11cf82c8d19b.jpg,237.56,True,1184,1476,3
+data\raw\Non-Recyclable\ceramic_product\Recycle-Disposal.png,non-recyclable,Recycle-Disposal.png,40.58,True,1200,618,3
+data\raw\Non-Recyclable\platics_bags_wrappers\plastic-pollution-crisis-environmental-damage-at-uk-nature-reserve-2HE3RHJ.jpg,non-recyclable,plastic-pollution-crisis-environmental-damage-at-uk-nature-reserve-2HE3RHJ.jpg,228.43,True,1300,956,3
+data\raw\Organic\food_scraps\IMG_1992.jpg,organic,IMG_1992.jpg,2867.45,True,4032,3024,3
+data\raw\Organic\food_scraps\Cooking-With-Food-Scraps.jpg,organic,Cooking-With-Food-Scraps.jpg,873.15,True,880,560,3
+data\raw\Organic\yard_trimmings\yard-waste-TS_1.jpg,organic,yard-waste-TS_1.jpg,8067.18,True,3600,2410,3
+data\raw\Hazardous\e-waste\1507096064_kRvRf8_e-waste - Copy.jpg,hazardous,1507096064_kRvRf8_e-waste - Copy.jpg,134.12,True,870,470,3
+data\raw\Organic\egg_shells\Eggshell_THUMBNAIL.jpg,organic,Eggshell_THUMBNAIL.jpg,45.08,True,800,800,3
+data\raw\Hazardous\e-waste\close-up-shot-of-some-electronic-waste-E88KF4 - Copy.jpg,hazardous,close-up-shot-of-some-electronic-waste-E88KF4 - Copy.jpg,267.29,True,1300,953,3
+data\raw\Hazardous\paints\empty-paint-cans-waiting-disposal-los-angeles-california-52298309.jpg,hazardous,empty-paint-cans-waiting-disposal-los-angeles-california-52298309.jpg,201.38,True,1600,1154,3
+data\raw\Hazardous\batteries\Types-of-Batteries-1.jpg,hazardous,Types-of-Batteries-1.jpg,51.56,True,1351,760,3
+data\raw\Non-Recyclable\ceramic_product\lacey-williams-175638-unsplash-1024x595.jpg,non-recyclable,lacey-williams-175638-unsplash-1024x595.jpg,127.34,True,1024,595,3
+data\raw\Recyclable\paper_products\newspaper-bundles-for-paper-recycling.jpg,recyclable,newspaper-bundles-for-paper-recycling.jpg,197.39,True,980,654,3
+data\raw\Non-Recyclable\ceramic_product\Recycled-glass-tile.jpg,non-recyclable,Recycled-glass-tile.jpg,680.59,True,2048,2048,3
+data\raw\Organic\egg_shells\Powder-preparation-steps-of-calcined-eggshells-a-Eggshell-b-Sun-drying-c.jpg,organic,Powder-preparation-steps-of-calcined-eggshells-a-Eggshell-b-Sun-drying-c.jpg,79.39,True,600,412,3
+data\raw\Hazardous\paints\uipment-for-Waste-Oil-Solvents-Sludge-Ash-Dust-Iron-Paint-Burning-Treatment.webp,hazardous,uipment-for-Waste-Oil-Solvents-Sludge-Ash-Dust-Iron-Paint-Burning-Treatment.webp,102.58,True,596,596,3
+data\raw\Organic\egg_shells\GettyImages-1136556806.jpg,organic,GettyImages-1136556806.jpg,229.22,True,2121,1414,3
+data\raw\Recyclable\cans_all_type\72645168.jpg,recyclable,72645168.jpg,130.82,True,318,450,3
+data\raw\Hazardous\paints\ChromaGlast-Sub-Solvent-Category.jpg,hazardous,ChromaGlast-Sub-Solvent-Category.jpg,59.96,True,428,270,3
+data\raw\Hazardous\e-waste\computer-electronic-waste-29637446 - Copy.jpg,hazardous,computer-electronic-waste-29637446 - Copy.jpg,38.86,True,800,676,3
+data\raw\Hazardous\paints\NOVDEC18_WEB_Science-Chemicals_AdobeStock_175995879_Creid-makcoud.jpg,hazardous,NOVDEC18_WEB_Science-Chemicals_AdobeStock_175995879_Creid-makcoud.jpg,73.74,True,1535,1024,3
+data\raw\Hazardous\pesticides\RS3523_UPL-Phoskill-Monocrotophos-02.jpg,hazardous,RS3523_UPL-Phoskill-Monocrotophos-02.jpg,961.31,True,3872,2592,3
+data\raw\Non-Recyclable\sanitary_napkin\frph-04-920461-t001.jpg,non-recyclable,frph-04-920461-t001.jpg,268.24,True,1089,574,3
+data\raw\Hazardous\e-waste\Ewaste.png,hazardous,Ewaste.png,249.38,True,422,281,3
+data\raw\Organic\coffee_tea_bags\depositphotos_6522878-stock-photo-coffee-beans-pads-and-tea.jpg,organic,depositphotos_6522878-stock-photo-coffee-beans-pads-and-tea.jpg,75.35,True,1024,760,3
+data\raw\Organic\egg_shells\eggshells-in-the-garden.jpg,organic,eggshells-in-the-garden.jpg,62.65,True,500,384,3
+data\raw\Recyclable\glass_containers\recycled-glass-jars-c.jpg,recyclable,recycled-glass-jars-c.jpg,60.79,True,558,501,3
+data\raw\Non-Recyclable\diapers\diaper-composition_orig.png,non-recyclable,diaper-composition_orig.png,392.81,True,801,694,3
+data\raw\Recyclable\plastic_bottles\t-water-fizzy-beverage-illustration-vinnitsa-ukraine-may-17-2022-free-vector.jpg,recyclable,t-water-fizzy-beverage-illustration-vinnitsa-ukraine-may-17-2022-free-vector.jpg,148.07,True,1920,1280,3
+data\raw\Non-Recyclable\diapers\Representational-Image-only-3.jpg,non-recyclable,Representational-Image-only-3.jpg,95.37,True,1200,628,3
+data\raw\Recyclable\glass_containers\smetics-in-recycling-glass-bottle-jar-tube-for-skin-care-cleanser-2258699621.jpg,recyclable,smetics-in-recycling-glass-bottle-jar-tube-for-skin-care-cleanser-2258699621.jpg,265.65,True,1500,1600,3
+data\raw\Non-Recyclable\sanitary_napkin\und-feminine-hygiene-products-menstruation-and-womens-health-concept-2JCJ7KM.jpg,non-recyclable,und-feminine-hygiene-products-menstruation-and-womens-health-concept-2JCJ7KM.jpg,43.67,True,1300,956,3
+data\raw\Non-Recyclable\ceramic_product\c7c78ff954653f5d1aa71fc29f6ed604.jpg,non-recyclable,c7c78ff954653f5d1aa71fc29f6ed604.jpg,172.17,True,550,1204,3
+data\raw\Hazardous\e-waste\65481011 - Copy.jpg,hazardous,65481011 - Copy.jpg,49.73,True,600,426,3
+data\raw\Non-Recyclable\ceramic_product\-bowl-shape-star-bott-bottom-melted-broken-glass-bubbles-air-vessel-85817559.jpg,non-recyclable,-bowl-shape-star-bott-bottom-melted-broken-glass-bubbles-air-vessel-85817559.jpg,151.31,True,1600,1263,3
+data\raw\Non-Recyclable\platics_bags_wrappers\rappers-green-lawn-park-concept-cleaning-up-respecting-environment-245277060.jpg,non-recyclable,rappers-green-lawn-park-concept-cleaning-up-respecting-environment-245277060.jpg,95.51,True,800,450,3
+data\raw\Hazardous\e-waste\ewaste-hero-banner.jpg,hazardous,ewaste-hero-banner.jpg,333.45,True,960,350,3
+data\raw\Non-Recyclable\stroform_product\styrofoam_waste_1050x700.jpg,non-recyclable,styrofoam_waste_1050x700.jpg,126.56,True,1050,700,3
+data\raw\Organic\yard_trimmings\LYWSmall.jpg,organic,LYWSmall.jpg,119.02,True,618,480,3
+data\raw\Organic\coffee_tea_bags\beans.png,organic,beans.png,827.0,True,1920,437,3
+data\raw\Organic\food_scraps\Food-Scraps-for-Your-Garden.jpg,organic,Food-Scraps-for-Your-Garden.jpg,185.2,True,600,902,3
+data\raw\Organic\kitchen_waste\compost-food-waste-732x549-thumbnail.jpg,organic,compost-food-waste-732x549-thumbnail.jpg,74.58,True,732,549,3
+data\raw\Hazardous\e-waste\ewaste-recycling - Copy.jpg,hazardous,ewaste-recycling - Copy.jpg,68.6,True,600,400,3
+data\raw\Non-Recyclable\sanitary_napkin\https3A2F2Fcdn.cnn.com2Fcnnnext2Fdam2Fassets2F180914085541-01-as-equals-uk-period-poverty.jpg,non-recyclable,https3A2F2Fcdn.cnn.com2Fcnnnext2Fdam2Fassets2F180914085541-01-as-equals-uk-period-poverty.jpg,73.19,True,1200,675,3
+data\raw\Organic\egg_shells\Emu_Egg_shell_painting_world_record-1.jpg,organic,Emu_Egg_shell_painting_world_record-1.jpg,136.31,True,800,533,3
+data\raw\Non-Recyclable\stroform_product\All_About_the_Features_and_Benefits_of_Bagasse_Material.jpg,non-recyclable,All_About_the_Features_and_Benefits_of_Bagasse_Material.jpg,94.95,True,850,508,3
+data\raw\Hazardous\e-waste\disposing-lightbulbs-batteries - Copy.jpg,hazardous,disposing-lightbulbs-batteries - Copy.jpg,403.84,True,900,450,3
+data\raw\Non-Recyclable\ceramic_product\81xHJfbgGS.jpg,non-recyclable,81xHJfbgGS.jpg,257.85,True,1602,1602,3
+data\raw\Recyclable\paper_products\Paper-scaled.png,recyclable,Paper-scaled.png,2529.46,True,2560,1077,3
+data\raw\Hazardous\e-waste\2050_E-Waste_Asian_Outlook_Web_title - Copy.jpg,hazardous,2050_E-Waste_Asian_Outlook_Web_title - Copy.jpg,189.96,True,959,1355,3
+data\raw\Non-Recyclable\platics_bags_wrappers\social.jpg,non-recyclable,social.jpg,555.59,True,2000,1333,3
+data\raw\Non-Recyclable\ceramic_product\nish-gray_glaze2C_gold_lacquer_-_Ethnological_Museum2C_Berlin_-_DSC02061.JPG.jpg,non-recyclable,nish-gray_glaze2C_gold_lacquer_-_Ethnological_Museum2C_Berlin_-_DSC02061.JPG.jpg,6837.08,True,4400,3018,3
+data\raw\Recyclable\cans_all_type\3d-illustration-of-blank-aluminum-can-png.png,recyclable,3d-illustration-of-blank-aluminum-can-png.png,183.46,True,1280,1920,3
+data\raw\Recyclable\cans_all_type\1000_F_562159019_0bLwz2fRtqYGR6QWwwnF7icyENY6lt07.jpg,recyclable,1000_F_562159019_0bLwz2fRtqYGR6QWwwnF7icyENY6lt07.jpg,273.54,True,1000,667,3
+data\raw\Organic\egg_shells\maxresdefault2.jpg,organic,maxresdefault2.jpg,167.39,True,1280,720,3
+data\raw\Non-Recyclable\sanitary_napkin\pons-on-pink-background-feminine-hygiene-products-menstrual-cycle-2167680291.jpg,non-recyclable,pons-on-pink-background-feminine-hygiene-products-menstrual-cycle-2167680291.jpg,347.03,True,1500,1101,3
+data\raw\Organic\coffee_tea_bags\e-beans-freshly-roasted-product-images-orvzzb1wjpv-p596853334-0-202307051943.jpg,organic,e-beans-freshly-roasted-product-images-orvzzb1wjpv-p596853334-0-202307051943.jpg,189.16,True,1500,1500,3
+data\raw\Hazardous\e-waste\09109-scicon-lightbulbcxd - Copy.jpg,hazardous,09109-scicon-lightbulbcxd - Copy.jpg,105.68,True,423,700,3
+data\raw\Recyclable\paper_products\shutterstock_689934028-min.jpg,recyclable,shutterstock_689934028-min.jpg,39.4,True,1000,444,3
+data\raw\Hazardous\e-waste\stock-photo-hazardous-waste-on-a-black-background-with-space-for-text-681808597.jpg,hazardous,stock-photo-hazardous-waste-on-a-black-background-with-space-for-text-681808597.jpg,669.26,True,1500,1101,3
+data\raw\Hazardous\e-waste\lightbulb-average-rated-lifetime-hours-1.jpg,hazardous,lightbulb-average-rated-lifetime-hours-1.jpg,84.64,True,900,450,3
+data\raw\Recyclable\glass_containers\Glass-Seed-Jars-Zero-Waste-Chef-1024x436.jpg,recyclable,Glass-Seed-Jars-Zero-Waste-Chef-1024x436.jpg,99.05,True,1024,436,3
+data\raw\Hazardous\batteries\technology-0-1.jpg,hazardous,technology-0-1.jpg,787.19,True,1550,1272,3
+data\raw\Recyclable\cans_all_type\47036.png,recyclable,47036.png,177.36,True,500,500,3
+data\raw\Hazardous\e-waste\international-e-waste-day - Copy.jpg,hazardous,international-e-waste-day - Copy.jpg,184.75,True,2340,1170,3
+data\raw\Hazardous\paints\deco-shine-paint-solvent-385994667-b0zph.jpg,hazardous,deco-shine-paint-solvent-385994667-b0zph.jpg,50.6,True,576,1024,3
+data\raw\Hazardous\e-waste\ewaste-type.png,hazardous,ewaste-type.png,256.5,True,1074,1080,3
+data\raw\Hazardous\batteries\AA_matchstick-1.jpg,hazardous,AA_matchstick-1.jpg,115.71,True,600,762,3
+data\raw\Hazardous\pesticides\discarded-pesticide-cartons-cans-beside-fence-of-orange-orchard-in-ABHE97.jpg,hazardous,discarded-pesticide-cartons-cans-beside-fence-of-orange-orchard-in-ABHE97.jpg,279.76,True,1300,948,3
+data\raw\Hazardous\e-waste\e_waste_1572334975.jpg,hazardous,e_waste_1572334975.jpg,61.73,True,604,453,3
+data\raw\Recyclable\paper_products\17d7bd040219620f734f78e70bb24438.jpg,recyclable,17d7bd040219620f734f78e70bb24438.jpg,130.29,True,1080,2065,3
+data\raw\Organic\food_scraps\A1MBvKpOlxL._AC_UF10001000_QL80_.jpg,organic,A1MBvKpOlxL._AC_UF10001000_QL80_.jpg,184.15,True,823,1000,3
+data\raw\Hazardous\batteries\lithium-ion-watt-hours-highlighted.jpg,hazardous,lithium-ion-watt-hours-highlighted.jpg,98.23,True,500,500,3
+data\raw\Non-Recyclable\stroform_product\____whereyouare.co--1-.jpg,non-recyclable,____whereyouare.co--1-.jpg,201.02,True,1080,1080,3
+data\raw\Non-Recyclable\platics_bags_wrappers\Tablet_Sleeve_-_Impact_a2c440a0-18f7-45e1-bfeb-23e7aa1b761c.jpg,non-recyclable,Tablet_Sleeve_-_Impact_a2c440a0-18f7-45e1-bfeb-23e7aa1b761c.jpg,182.1,True,1600,1600,3
+data\raw\Recyclable\paper_products\img_5e755845b44fd.jpg,recyclable,img_5e755845b44fd.jpg,117.64,True,600,900,3
+data\raw\Recyclable\plastic_bottles\15537477-three-soda-water-bottles-isolated-on-white-background.jpg,recyclable,15537477-three-soda-water-bottles-isolated-on-white-background.jpg,38.91,True,1300,1112,3
+data\raw\Recyclable\cans_all_type\Campbells-1-1-e1668679527809.jpg,recyclable,Campbells-1-1-e1668679527809.jpg,78.65,True,1000,402,3
+data\raw\Non-Recyclable\diapers\pile-discarded-used-baby-diapers-footage-170531202_prevstill.jpeg,non-recyclable,pile-discarded-used-baby-diapers-footage-170531202_prevstill.jpeg,380.14,True,3840,2160,3
+data\raw\Non-Recyclable\platics_bags_wrappers\maxresdefault3.jpg,non-recyclable,maxresdefault3.jpg,108.52,True,1280,720,3
+data\raw\Non-Recyclable\diapers\s-environmental-impact-disposable-pollution-environment-soil-water-235596044.jpg,non-recyclable,s-environmental-impact-disposable-pollution-environment-soil-water-235596044.jpg,135.67,True,1600,1155,3
+data\raw\Non-Recyclable\sanitary_napkin\homegrown2Fimport2Fimg2Fbook2Fqqipdhbhkz-1492594351.PNG.jpg,non-recyclable,homegrown2Fimport2Fimg2Fbook2Fqqipdhbhkz-1492594351.PNG.jpg,40.02,True,800,438,3
+data\raw\Hazardous\paints\IMG_1527-1024x668.jpg,hazardous,IMG_1527-1024x668.jpg,103.05,True,1024,668,3
+data\raw\Non-Recyclable\stroform_product\styrofoam-takeout-containers-food-1200x628-facebook.jpg,non-recyclable,styrofoam-takeout-containers-food-1200x628-facebook.jpg,104.76,True,1200,628,3
+data\raw\Recyclable\cans_all_type\pty-aluminum-cans-the-concept-of-processed-waste-background-texture-of-piles.jpg,recyclable,pty-aluminum-cans-the-concept-of-processed-waste-background-texture-of-piles.jpg,31.67,True,450,298,3
+data\raw\Hazardous\paints\maxresdefault3.jpg,hazardous,maxresdefault3.jpg,182.68,True,1280,720,3
+data\raw\Hazardous\batteries\batteries_as_hero.jpg,hazardous,batteries_as_hero.jpg,264.66,True,992,661,3
+data\raw\Recyclable\cans_all_type\Blog_02.21.2017.jpg,recyclable,Blog_02.21.2017.jpg,293.59,True,900,450,3
+data\raw\Organic\egg_shells\elisa-sheehan-kintsugi-eggshells-1.jpg,organic,elisa-sheehan-kintsugi-eggshells-1.jpg,123.89,True,1100,1396,3
+data\raw\Organic\yard_trimmings\depositphotos_66088493-stock-photo-garbage-bags-on-green-yard.jpg,organic,depositphotos_66088493-stock-photo-garbage-bags-on-green-yard.jpg,78.92,True,600,398,3
+data\raw\Non-Recyclable\stroform_product\styrofoam-packaging-materials-CFF552.jpg,non-recyclable,styrofoam-packaging-materials-CFF552.jpg,89.06,True,1300,953,3
+data\raw\Recyclable\plastic_bottles\plastic-bottle-ocean-1200x600.jpg,recyclable,plastic-bottle-ocean-1200x600.jpg,72.68,True,1200,600,3
+data\raw\Organic\egg_shells\eggshells-in-bowl-1296x728.jpg,organic,eggshells-in-bowl-1296x728.jpg,42.97,True,1296,728,3
+data\raw\Organic\yard_trimmings\image-asset.jpeg,organic,image-asset.jpeg,2580.02,True,2500,1613,3
+data\raw\Hazardous\e-waste\international-e-waste-day.jpg,hazardous,international-e-waste-day.jpg,184.75,True,2340,1170,3
+data\raw\Hazardous\e-waste\e-waste-3.jpg,hazardous,e-waste-3.jpg,60.93,True,735,653,3
+data\raw\Non-Recyclable\platics_bags_wrappers\20-Plastic-Bag-Crafts-To-Reuse-And-Recycle.jpg,non-recyclable,20-Plastic-Bag-Crafts-To-Reuse-And-Recycle.jpg,114.06,True,564,846,3
+data\raw\Organic\food_scraps\0.32790600_1489483849_food-loss.jpg,organic,0.32790600_1489483849_food-loss.jpg,70.65,True,1024,681,3
+data\raw\Hazardous\e-waste\electronic-waste-disposal - Copy.jpg,hazardous,electronic-waste-disposal - Copy.jpg,267.83,True,850,977,3
+data\raw\Hazardous\e-waste\341a4407444002d51dff14946e857c65 - Copy.jpg,hazardous,341a4407444002d51dff14946e857c65 - Copy.jpg,444.4,True,1581,1529,3
+data\raw\Recyclable\glass_containers\maxresdefault3.jpg,recyclable,maxresdefault3.jpg,142.71,True,1280,720,3
+data\raw\Recyclable\plastic_bottles\nick-fewings--2lJGRIY5P0-unsplash.jpg,recyclable,nick-fewings--2lJGRIY5P0-unsplash.jpg,391.73,True,1440,960,3
+data\raw\Non-Recyclable\diapers\img-20220517-62834aa4b613d.png,non-recyclable,img-20220517-62834aa4b613d.png,44.72,True,720,720,3
+data\raw\Recyclable\glass_containers\81B-xzZbOvL.jpg,recyclable,81B-xzZbOvL.jpg,257.07,True,1500,1162,3
+data\raw\Hazardous\e-waste\fluorescent-lightbulb-abstract-15600002 - Copy.jpg,hazardous,fluorescent-lightbulb-abstract-15600002 - Copy.jpg,43.97,True,622,900,3
+data\raw\Organic\kitchen_waste\scandinavian-kitchen.jpg,organic,scandinavian-kitchen.jpg,97.53,True,640,456,3
+data\raw\Non-Recyclable\platics_bags_wrappers\200723230749-02-japan-plastic-waste-restricted.jpg,non-recyclable,200723230749-02-japan-plastic-waste-restricted.jpg,76.74,True,800,534,3
+data\raw\Recyclable\plastic_bottles\facts-about-plastic-bottles2.jpg,recyclable,facts-about-plastic-bottles2.jpg,75.85,True,550,526,3
+data\raw\Recyclable\glass_containers\Glass-Bottle-Jars-1.jpg,recyclable,Glass-Bottle-Jars-1.jpg,82.91,True,589,352,3
+data\raw\Organic\egg_shells\51kXtLk8BSL.jpg,organic,51kXtLk8BSL.jpg,44.6,True,1000,1000,3
+data\raw\Recyclable\cans_all_type\dreamstimexxl1772400920-20aluminum20cans.jpg,recyclable,dreamstimexxl1772400920-20aluminum20cans.jpg,68.25,True,736,414,3
+data\raw\Recyclable\plastic_bottles\bottleHistory.jpg,recyclable,bottleHistory.jpg,63.18,True,2400,1350,3
+data\raw\Recyclable\plastic_bottles\360_F_271992081_U3HO92OxojSCTyZhRnX9op5AyCCz0zYL.jpg,recyclable,360_F_271992081_U3HO92OxojSCTyZhRnX9op5AyCCz0zYL.jpg,76.43,True,540,360,3
+data\raw\Hazardous\e-waste\Fluorescent_light_bulb_from_inside_2.jpg,hazardous,Fluorescent_light_bulb_from_inside_2.jpg,334.11,True,1024,768,3
+data\raw\Organic\coffee_tea_bags\634e56bb6131e628c47a9d26-coffee-tea-bags-single-serve-premium.jpg,organic,634e56bb6131e628c47a9d26-coffee-tea-bags-single-serve-premium.jpg,67.11,True,1000,1000,3
+data\raw\Organic\yard_trimmings\garden-worker-trimming-trees-with-scissors-yard_732190-2409.jpg,organic,garden-worker-trimming-trees-with-scissors-yard_732190-2409.jpg,67.8,True,626,417,3
+data\raw\Non-Recyclable\sanitary_napkin\5-Ways-To-Use-A-Hygiene-Kit_2.png,non-recyclable,5-Ways-To-Use-A-Hygiene-Kit_2.png,138.65,True,320,800,3
+data\raw\Non-Recyclable\stroform_product\file-20210908-13-1rlm677.png,non-recyclable,file-20210908-13-1rlm677.png,3288.22,True,1920,1382,3
+data\raw\Recyclable\paper_products\boxed20packed20goods-min.jpg,recyclable,boxed20packed20goods-min.jpg,267.03,True,2880,2000,3
+data\raw\Non-Recyclable\stroform_product\food-packaging-1.jpg,non-recyclable,food-packaging-1.jpg,132.82,True,750,450,3
+data\raw\Recyclable\glass_containers\MP000000008225078_1348Wx2000H_202011202358181.jpeg,recyclable,MP000000008225078_1348Wx2000H_202011202358181.jpeg,84.64,True,1080,1440,3
+data\raw\Hazardous\e-waste\gettyimages-566436837-1559940280.jpg,hazardous,gettyimages-566436837-1559940280.jpg,120.53,True,1200,1194,3
+data\raw\Organic\coffee_tea_bags\hd_panduranga_coffee_900x_afac79ed-a644-49e3-8145-f6b8f7caf3ad.jpg,organic,hd_panduranga_coffee_900x_afac79ed-a644-49e3-8145-f6b8f7caf3ad.jpg,66.68,True,720,720,3
+data\raw\Recyclable\paper_products\how-is-paper-recycled-and-reused-in-paper-products-reel-talk-193723_1024x1024.jpg,recyclable,how-is-paper-recycled-and-reused-in-paper-products-reel-talk-193723_1024x1024.jpg,138.28,True,1000,668,3
+data\raw\Recyclable\glass_containers\recycled-crafts-decorating-glass-jars.jpg,recyclable,recycled-crafts-decorating-glass-jars.jpg,38.58,True,735,729,3
+data\raw\Non-Recyclable\stroform_product\image32.jpg,non-recyclable,image32.jpg,361.14,True,2880,960,3
+data\raw\Organic\yard_trimmings\kid-working-hard-in-her-front-yard-spreading-grass-seed-while-her_t20_WgVx4m.jpg,organic,kid-working-hard-in-her-front-yard-spreading-grass-seed-while-her_t20_WgVx4m.jpg,925.07,True,2048,1232,3
+data\raw\Hazardous\paints\391w_e-waste-2049017_1280.jpg,hazardous,391w_e-waste-2049017_1280.jpg,35.86,True,391,260,3
+data\raw\Organic\coffee_tea_bags\Kilimanjaro-Tanzania-Roasted-Coffee-Beans-_2_1200x.jpg,organic,Kilimanjaro-Tanzania-Roasted-Coffee-Beans-_2_1200x.jpg,317.05,True,1200,1200,3
+data\raw\Organic\food_scraps\msYOpyieqtTMURt-800x450-noPad.jpg,organic,msYOpyieqtTMURt-800x450-noPad.jpg,68.74,True,750,421,3
+data\raw\Recyclable\cans_all_type\AdobeStock_9525053geo-scaled.jpeg,recyclable,AdobeStock_9525053geo-scaled.jpeg,236.21,True,1600,1200,3
+data\raw\Non-Recyclable\ceramic_product\broken-bottles-4-1024x818.jpg,non-recyclable,broken-bottles-4-1024x818.jpg,187.74,True,1024,818,3
+data\raw\Recyclable\plastic_bottles\1574672891_p_5170256_1028237.jpeg,recyclable,1574672891_p_5170256_1028237.jpeg,37.43,True,400,600,3
+data\raw\Hazardous\e-waste\Optimized-ewaste-middle-east - Copy.jpg,hazardous,Optimized-ewaste-middle-east - Copy.jpg,34.73,True,400,266,3
+data\raw\Organic\egg_shells\rbzywo5dfoy.jpg,organic,rbzywo5dfoy.jpg,224.78,True,1600,1067,3
+data\raw\Organic\egg_shells\Engraved-ostrich-eggshell-fragment-Upper-Palaeolithic-Patne-India.png,organic,Engraved-ostrich-eggshell-fragment-Upper-Palaeolithic-Patne-India.png,212.32,True,765,531,3
+data\raw\Recyclable\paper_products\WhatPaperProductsRecyclable_greyoverlay.png,recyclable,WhatPaperProductsRecyclable_greyoverlay.png,238.2,True,500,400,3
+data\raw\Recyclable\cans_all_type\Soup-Cans.jpg,recyclable,Soup-Cans.jpg,171.93,True,1111,575,3
+data\raw\Recyclable\cans_all_type\recycle-aluminum-metal-crushed-can-waste-background_293060-6927.jpg,recyclable,recycle-aluminum-metal-crushed-can-waste-background_293060-6927.jpg,74.54,True,626,417,3
+data\raw\Hazardous\e-waste\8ft-Fluorescent-Box-Gallery-Image-1.jpg,hazardous,8ft-Fluorescent-Box-Gallery-Image-1.jpg,57.83,True,523,391,3
+data\raw\Recyclable\cans_all_type\can-lifecycle.png,recyclable,can-lifecycle.png,355.43,True,1360,500,3
+data\raw\Organic\food_scraps\healthy-food-eating-groceries-1296x728-header-1.jpg,organic,healthy-food-eating-groceries-1296x728-header-1.jpg,133.31,True,1296,728,3
+data\raw\Recyclable\plastic_bottles\_116927274_adez_paper_bottle.jpg,recyclable,_116927274_adez_paper_bottle.jpg,41.19,True,976,549,3
+data\raw\Recyclable\cans_all_type\Canned20Food20Blog2028129.png,recyclable,Canned20Food20Blog2028129.png,227.13,True,730,400,3
+data\raw\Non-Recyclable\platics_bags_wrappers\2-bags-of-morrisons-shopping-discarded-on-the-ground-BMKDN3.jpg,non-recyclable,2-bags-of-morrisons-shopping-discarded-on-the-ground-BMKDN3.jpg,227.4,True,866,1390,3
+data\raw\Non-Recyclable\platics_bags_wrappers\grocery-plastics-9_slide-709f9469bb300475d6ea6c2038892268a68a2bf0.jpg,non-recyclable,grocery-plastics-9_slide-709f9469bb300475d6ea6c2038892268a68a2bf0.jpg,2019.34,True,1998,1332,3
+data\raw\Hazardous\e-waste\Electronic-waste2-scaled - Copy.jpg,hazardous,Electronic-waste2-scaled - Copy.jpg,758.17,True,2560,1544,3
+data\raw\Hazardous\e-waste\hazardous-waste-wooden-background-74234943.jpg,hazardous,hazardous-waste-wooden-background-74234943.jpg,298.61,True,1600,1157,3
+data\raw\Hazardous\e-waste\crompton-bulbs-and-cfls-19-08-2021-975-240174309-zjbfq.png,hazardous,crompton-bulbs-and-cfls-19-08-2021-975-240174309-zjbfq.png,79.03,True,530,530,3
+data\raw\Non-Recyclable\stroform_product\w_takeout_trash_wk1003mike_shutterstock_422191876.c86d3627.jpg,non-recyclable,w_takeout_trash_wk1003mike_shutterstock_422191876.c86d3627.jpg,150.88,True,1600,900,3
+data\raw\Organic\food_scraps\4-Easy-Methods-to-Repurpose-Food-Scraps-Through-Kitchen-Composting.jpg,organic,4-Easy-Methods-to-Repurpose-Food-Scraps-Through-Kitchen-Composting.jpg,86.54,True,1200,630,3
+data\raw\Hazardous\e-waste\light-bulb-recycling-waste-legacy-tungsten-on-white-background-GJ5BDK.jpg,hazardous,light-bulb-recycling-waste-legacy-tungsten-on-white-background-GJ5BDK.jpg,74.08,True,1300,955,3
+data\raw\Hazardous\e-waste\Challenges-and-Opportunities-in-Electronic-Waste-Management-in-India-SHAMI - Copy.jpg,hazardous,Challenges-and-Opportunities-in-Electronic-Waste-Management-in-India-SHAMI - Copy.jpg,112.37,True,670,352,3
+data\raw\Organic\food_scraps\food20scraps20MR1540.jpg,organic,food20scraps20MR1540.jpg,836.71,True,1540,800,3
+data\raw\Organic\egg_shells\titanosaur-eggs-india-1-1024x705.jpg,organic,titanosaur-eggs-india-1-1024x705.jpg,186.83,True,1024,705,3
+data\raw\Organic\coffee_tea_bags\3_b1846eaf-f53b-47b7-aec2-e163cf50171f_480x480.png,organic,3_b1846eaf-f53b-47b7-aec2-e163cf50171f_480x480.png,213.89,True,480,305,3
+data\raw\Recyclable\glass_containers\30-ml-Lug-Cap-Glass-Jars.jpg,recyclable,30-ml-Lug-Cap-Glass-Jars.jpg,122.13,True,500,500,3
+data\raw\Non-Recyclable\stroform_product\McDonalds_Molded_Pulp_Drink_Tray_Top.jpg,non-recyclable,McDonalds_Molded_Pulp_Drink_Tray_Top.jpg,948.06,True,1600,1200,3
+data\raw\Hazardous\batteries\rechargeable-battery-2048px-5925.jpg,hazardous,rechargeable-battery-2048px-5925.jpg,151.78,True,2048,1365,3
+data\raw\Hazardous\e-waste\file-20210216-19-57bzc1 - Copy.jpg,hazardous,file-20210216-19-57bzc1 - Copy.jpg,129.07,True,1920,1186,3
+data\raw\Recyclable\plastic_bottles\plastic-soda-bottle.jpg,recyclable,plastic-soda-bottle.jpg,244.25,True,1500,1539,3
+data\raw\Hazardous\e-waste\reciclaje-industrial-portada.jpg,hazardous,reciclaje-industrial-portada.jpg,156.98,True,773,538,3
+data\raw\Hazardous\batteries\1-s2.0-S2405829720304827-fx1.jpg,hazardous,1-s2.0-S2405829720304827-fx1.jpg,37.45,True,245,245,3
+data\raw\Non-Recyclable\ceramic_product\arts-crockery-halves-broken-white-cup-disintegration-accident-cut_695181-454.jpg,non-recyclable,arts-crockery-halves-broken-white-cup-disintegration-accident-cut_695181-454.jpg,39.41,True,626,415,3
+data\raw\Non-Recyclable\stroform_product\polystyrene-or-styrofoam-protective-packaging-beads-M964HY.jpg,non-recyclable,polystyrene-or-styrofoam-protective-packaging-beads-M964HY.jpg,97.66,True,1300,956,3
+data\raw\Organic\coffee_tea_bags\225-green-coffee-beans-powder-225-g-with-lemongrass-ginger-green-original-imafbh9ygzhgqh82.jpeg,organic,225-green-coffee-beans-powder-225-g-with-lemongrass-ginger-green-original-imafbh9ygzhgqh82.jpeg,170.08,True,850,839,3
+data\raw\Organic\yard_trimmings\yardwaste.jpg,organic,yardwaste.jpg,323.19,True,820,586,3
+data\raw\Organic\food_scraps\fight-food-waste-1533137513976-1533137515977.jpg,organic,fight-food-waste-1533137513976-1533137515977.jpg,94.81,True,1200,628,3
+data\raw\Recyclable\cans_all_type\utensil.jpg,recyclable,utensil.jpg,74.82,True,787,562,3
+data\raw\Organic\coffee_tea_bags\coffee-tea-bags.jpg,organic,coffee-tea-bags.jpg,58.58,True,1200,800,3
+data\raw\Hazardous\e-waste\electronic-recycling.jpg,hazardous,electronic-recycling.jpg,911.33,True,980,653,3
+data\raw\Organic\food_scraps\maxresdefault3.jpg,organic,maxresdefault3.jpg,227.2,True,1280,720,3
+data\raw\Recyclable\glass_containers\Bottle-9.jpg,recyclable,Bottle-9.jpg,104.47,True,400,400,3
+data\raw\Hazardous\e-waste\Reciclaje_electronico_categorias_inglC3A9s - Copy.jpg,hazardous,Reciclaje_electronico_categorias_inglC3A9s - Copy.jpg,147.42,True,696,649,3
+data\raw\Hazardous\e-waste\stock-photo-hazardous-waste-on-a-black-background-with-space-for-text-681808597 - Copy.jpg,hazardous,stock-photo-hazardous-waste-on-a-black-background-with-space-for-text-681808597 - Copy.jpg,669.26,True,1500,1101,3
+data\raw\Recyclable\cans_all_type\maxresdefault.jpg,recyclable,maxresdefault.jpg,212.47,True,1280,720,3
+data\raw\Recyclable\cans_all_type\di-steel-2-new-6.png,recyclable,di-steel-2-new-6.png,228.02,True,480,480,3
+data\raw\Recyclable\cans_all_type\can-shortages.jpg,recyclable,can-shortages.jpg,43.55,True,640,480,3
+data\raw\Hazardous\e-waste\pile-o-light-bulbs-1024x683.jpg,hazardous,pile-o-light-bulbs-1024x683.jpg,66.47,True,1024,683,3
+data\raw\Organic\food_scraps\egetables-and-fruits-in-a-huge-container-in-a-rubbish-bin-heap-of-2203815095.jpg,organic,egetables-and-fruits-in-a-huge-container-in-a-rubbish-bin-heap-of-2203815095.jpg,520.76,True,1500,1099,3
+data\raw\Recyclable\cans_all_type\april-11-2020-halifax-canada-campbells-heinz-and-no-name-brand-canned-soups-2BK87NC.jpg,recyclable,april-11-2020-halifax-canada-campbells-heinz-and-no-name-brand-canned-soups-2BK87NC.jpg,101.09,True,1300,956,3
+data\raw\Recyclable\cans_all_type\healthy-canned-soups-amy-s-black-bean.jpg,recyclable,healthy-canned-soups-amy-s-black-bean.jpg,218.48,True,728,524,3
+data\raw\Recyclable\plastic_bottles\ple-soft-drink-bottles-without-and-with-drops-on-white-background-2080245079.jpg,recyclable,ple-soft-drink-bottles-without-and-with-drops-on-white-background-2080245079.jpg,413.65,True,1500,1600,3
+data\raw\Organic\egg_shells\AdobeStock_479886517-scaled-e1674774370139.jpeg,organic,AdobeStock_479886517-scaled-e1674774370139.jpeg,374.89,True,1800,1200,3
+data\raw\Organic\food_scraps\composition-compost-made-rotten-food_23-2149073812.jpg,organic,composition-compost-made-rotten-food_23-2149073812.jpg,55.16,True,626,418,3
+data\raw\Organic\kitchen_waste\DemHuJ-W0AAARkM.jpg,organic,DemHuJ-W0AAARkM.jpg,250.29,True,1200,1200,3
+data\raw\Recyclable\paper_products\slide_14.jpg,recyclable,slide_14.jpg,122.67,True,960,720,3
+data\raw\Organic\egg_shells\1-s2.0-S0950061822018086-ga1.jpg,organic,1-s2.0-S0950061822018086-ga1.jpg,33.32,True,500,128,3
+data\raw\Organic\egg_shells\1_872_600.jpg,organic,1_872_600.jpg,91.32,True,600,511,3
+data\raw\Hazardous\pesticides\1-s2.0-S2352186420313262-gr1.jpg,hazardous,1-s2.0-S2352186420313262-gr1.jpg,72.77,True,643,345,3
+data\raw\Hazardous\pesticides\reduce-the-need-for-pesticides-and-herbicides-us-environmental-.jpg,hazardous,reduce-the-need-for-pesticides-and-herbicides-us-environmental-.jpg,89.99,True,495,640,3
+data\raw\Non-Recyclable\sanitary_napkin\006965731_1-a906255231db326e1934217ae548db6a.png,non-recyclable,006965731_1-a906255231db326e1934217ae548db6a.png,192.8,True,725,1024,3
+data\raw\Recyclable\cans_all_type\aluminium05.png,recyclable,aluminium05.png,235.42,True,540,450,3
+data\raw\Non-Recyclable\stroform_product\Types-of-food-containers-considered-in-the-study-A-Aluminium-takeaway-container-B.jpg,non-recyclable,Types-of-food-containers-considered-in-the-study-A-Aluminium-takeaway-container-B.jpg,133.95,True,850,614,3
+data\raw\Hazardous\pesticides\spraying-pesticides.jpg,hazardous,spraying-pesticides.jpg,45.1,True,600,600,3
+data\raw\Organic\kitchen_waste\Articleheader_Dora.jpg,organic,Articleheader_Dora.jpg,1663.4,True,2000,1600,3
+data\raw\Hazardous\e-waste\aving-led-and-fluorescent-lightbulbs-infographic-on-a-blue-background-vector.jpg,hazardous,aving-led-and-fluorescent-lightbulbs-infographic-on-a-blue-background-vector.jpg,400.78,True,1920,1718,3
+data\raw\Non-Recyclable\ceramic_product\J-152-019-thumb-1600x900---3890.jpg,non-recyclable,J-152-019-thumb-1600x900---3890.jpg,100.99,True,1600,900,3
+data\raw\Non-Recyclable\diapers\s_Matching_Tees_with_hybrid_cloth_diaper_covers_online_with_100_cotton_fabri.png,non-recyclable,s_Matching_Tees_with_hybrid_cloth_diaper_covers_online_with_100_cotton_fabri.png,1098.64,True,1800,1000,3
+data\raw\Organic\coffee_tea_bags\71zKEKtQfL.jpg,organic,71zKEKtQfL.jpg,147.23,True,2181,1365,3
+data\raw\Organic\coffee_tea_bags\1200px-Latte_and_dark_coffee.jpg,organic,1200px-Latte_and_dark_coffee.jpg,285.19,True,1200,750,3
+data\raw\Hazardous\pesticides\pesticide-jugs-r.jpg,hazardous,pesticide-jugs-r.jpg,53.92,True,960,622,3
+data\raw\Organic\food_scraps\Food-waste-Indian-weddings.jpeg,organic,Food-waste-Indian-weddings.jpeg,313.55,True,1500,900,3
+data\raw\Hazardous\e-waste\icons-led-lamps-types-fluorescent-filament-halogen-diode-and-other-632016899.jpg,hazardous,icons-led-lamps-types-fluorescent-filament-halogen-diode-and-other-632016899.jpg,323.19,True,1500,1600,3
+data\raw\Recyclable\cans_all_type\used-cans-recycling-klang-malaysia-may-separated-various-drinks-71794871.jpg,recyclable,used-cans-recycling-klang-malaysia-may-separated-various-drinks-71794871.jpg,315.86,True,1600,1290,3
+data\raw\Non-Recyclable\ceramic_product\guide-glass-brokenglass.jpg,non-recyclable,guide-glass-brokenglass.jpg,55.67,True,600,600,3
+data\raw\Hazardous\pesticides\n-spraying-toxic-pesticides-insecticides-corn-growing-plantation_473712-3189.jpg,hazardous,n-spraying-toxic-pesticides-insecticides-corn-growing-plantation_473712-3189.jpg,79.75,True,626,417,3
+data\raw\Hazardous\paints\WASTE-SERVICES-Paints-466x250-480w.jpg,hazardous,WASTE-SERVICES-Paints-466x250-480w.jpg,38.61,True,466,250,3
+data\raw\Hazardous\paints\haz.JPG.jpg,hazardous,haz.JPG.jpg,297.61,True,1080,1239,3
+data\raw\Hazardous\paints\shutterstock_705650794-scaled-e1651069725819.jpg,hazardous,shutterstock_705650794-scaled-e1651069725819.jpg,71.37,True,785,520,3
+data\raw\Hazardous\paints\32242531531_03d057a31c_o.png,hazardous,32242531531_03d057a31c_o.png,111.37,True,469,1020,3
+data\raw\Hazardous\e-waste\66016104-inefficient-tungsten-light-bulbs-discarded-in-a-trash-can-green-eco-concept.jpg,hazardous,66016104-inefficient-tungsten-light-bulbs-discarded-in-a-trash-can-green-eco-concept.jpg,76.04,True,1300,866,3
+data\raw\Non-Recyclable\stroform_product\secondary-packaging-examples.jpg,non-recyclable,secondary-packaging-examples.jpg,78.63,True,610,491,3
+data\raw\Recyclable\cans_all_type\empty-beverage-cans.jpeg,recyclable,empty-beverage-cans.jpeg,50.0,True,917,1122,3
+data\raw\Organic\food_scraps\composting-methods.jpg,organic,composting-methods.jpg,296.25,True,1807,1200,3
+data\raw\Organic\yard_trimmings\81Qdib204pL._AC_UF8941000_QL80_.jpg,organic,81Qdib204pL._AC_UF8941000_QL80_.jpg,199.68,True,894,889,3
+data\raw\Recyclable\cans_all_type\soda-can-white-aluminum-2J8MroE-600.jpg,recyclable,soda-can-white-aluminum-2J8MroE-600.jpg,59.75,True,600,600,3
+data\raw\Organic\food_scraps\zero-waste-26.jpg,organic,zero-waste-26.jpg,63.63,True,800,800,3
+data\raw\Hazardous\e-waste\-august-heap-of-broken-smartphone-screen-e-waste-electronic-waste-1100705909 - Copy.jpg,hazardous,-august-heap-of-broken-smartphone-screen-e-waste-electronic-waste-1100705909 - Copy.jpg,1743.85,True,1500,1225,3
+data\raw\Recyclable\plastic_bottles\drip-feeder-e1517492065644.jpg,recyclable,drip-feeder-e1517492065644.jpg,296.66,True,900,1600,3
+data\raw\Non-Recyclable\diapers\nappies-pink-background-sustainable-lifestyle-zero-waste-concept_479776-4385.jpg,non-recyclable,nappies-pink-background-sustainable-lifestyle-zero-waste-concept_479776-4385.jpg,31.58,True,626,417,3
+data\raw\Hazardous\pesticides\007655891_1-545b05bd3c57e9fd46f3f49e371a5673-768x994.png,hazardous,007655891_1-545b05bd3c57e9fd46f3f49e371a5673-768x994.png,116.46,True,768,994,3
+data\raw\Non-Recyclable\stroform_product\food-packaging-regulations-fi-1.jpg,non-recyclable,food-packaging-regulations-fi-1.jpg,101.54,True,2100,650,3
+data\raw\Recyclable\paper_products\stack-of-newspapers-for-recycling.jpg,recyclable,stack-of-newspapers-for-recycling.jpg,37.26,True,728,489,3
+data\raw\Non-Recyclable\stroform_product\food-packaging-containers-bamboo-glass-eco-1296x728-header.jpg,non-recyclable,food-packaging-containers-bamboo-glass-eco-1296x728-header.jpg,129.9,True,1296,728,3
+data\raw\Hazardous\e-waste\nergy-saving-bulbs-tube-spent-incandescent-halogen-cfi-fluorescent-174891307 - Copy.jpg,hazardous,nergy-saving-bulbs-tube-spent-incandescent-halogen-cfi-fluorescent-174891307 - Copy.jpg,39.77,True,800,534,3
+data\raw\Hazardous\e-waste\bulbs_2.png,hazardous,bulbs_2.png,189.14,True,1046,604,3
+data\raw\Recyclable\plastic_bottles\maxresdefault3.jpg,recyclable,maxresdefault3.jpg,70.79,True,1280,720,3
+data\raw\Hazardous\e-waste\depositphotos_30453211-stock-photo-modern-electronic-waste - Copy.jpg,hazardous,depositphotos_30453211-stock-photo-modern-electronic-waste - Copy.jpg,135.18,True,1023,682,3
+data\raw\Hazardous\e-waste\What_is_electronic_waste_recycling - Copy.jpg,hazardous,What_is_electronic_waste_recycling - Copy.jpg,929.29,True,1280,780,3
+data\raw\Organic\yard_trimmings\Yardwaste-Recycling-1024x683.jpg,organic,Yardwaste-Recycling-1024x683.jpg,298.11,True,1024,683,3
+data\raw\Recyclable\glass_containers\jar.Cosmeticpetbottle_emptycontainers_acrylicshanjar_acrylicjar_50gmjarglass.jpg,recyclable,jar.Cosmeticpetbottle_emptycontainers_acrylicshanjar_acrylicjar_50gmjarglass.jpg,237.92,True,3000,3000,3
+data\raw\Hazardous\e-waste\Example-of-e-waste-in-Category-3-ICT-a-used-mobile-phones-and-b-used-monitors_Q320 - Copy.jpg,hazardous,Example-of-e-waste-in-Category-3-ICT-a-used-mobile-phones-and-b-used-monitors_Q320 - Copy.jpg,32.7,True,320,320,3
+data\raw\Non-Recyclable\stroform_product\8f4dfec62271432d866768b7f62c88b4.jpg,non-recyclable,8f4dfec62271432d866768b7f62c88b4.jpg,10846.56,True,6000,4000,3
+data\raw\Organic\food_scraps\iStock-1225253924_resized.jpg,organic,iStock-1225253924_resized.jpg,463.29,True,900,600,3
+data\raw\Recyclable\cans_all_type\soda-can-mockup-realistic-transparent-free-png.png,recyclable,soda-can-mockup-realistic-transparent-free-png.png,7637.73,True,1920,1920,3
+data\raw\Non-Recyclable\sanitary_napkin\what-methods-can-be-used-for-the-disposal-of-infectious-waste.jpg,non-recyclable,what-methods-can-be-used-for-the-disposal-of-infectious-waste.jpg,68.36,True,2100,650,3
+data\raw\Hazardous\e-waste\https3A2F2Fwww.elektormagazine.com2Fassets2Fupload2Fimages2F02Fe-waste4 - Copy.jpg,hazardous,https3A2F2Fwww.elektormagazine.com2Fassets2Fupload2Fimages2F02Fe-waste4 - Copy.jpg,88.09,True,435,250,3
+data\raw\Recyclable\cans_all_type\tin_can_collage.jpg,recyclable,tin_can_collage.jpg,145.23,True,725,1015,3
+data\raw\Hazardous\e-waste\waste.jpg,hazardous,waste.jpg,77.3,True,500,319,3
+data\raw\Hazardous\e-waste\light-bulbs-and-recycling-bin-for-them-light-bulbs-and-fluorescent-lamps-are.jpg,hazardous,light-bulbs-and-recycling-bin-for-them-light-bulbs-and-fluorescent-lamps-are.jpg,54.32,True,1300,1300,3
+data\raw\Organic\food_scraps\top-view-trash-cooking-concept_23-2149056487.jpg,organic,top-view-trash-cooking-concept_23-2149056487.jpg,68.22,True,626,418,3
+data\raw\Recyclable\paper_products\20cardboard20boxes20on20white20background.20each20one20is20shot20separately.jpeg,recyclable,20cardboard20boxes20on20white20background.20each20one20is20shot20separately.jpeg,400.21,True,1000,878,3
+data\raw\Organic\coffee_tea_bags\VOTHxV2Bgg.jpg,organic,VOTHxV2Bgg.jpg,58.19,True,800,800,3
+data\raw\Hazardous\pesticides\Are-They-Hazardous-WastesE280A6-Pesticides-and-Herbicides.jpg,hazardous,Are-They-Hazardous-WastesE280A6-Pesticides-and-Herbicides.jpg,55.24,True,500,334,3
+data\raw\Organic\yard_trimmings\lawn-clippings-mulch.jpg,organic,lawn-clippings-mulch.jpg,118.98,True,1200,800,3
+data\raw\Non-Recyclable\diapers\sevent-generation-sensitive-protection_4x3.jpg,non-recyclable,sevent-generation-sensitive-protection_4x3.jpg,89.42,True,1026,770,3
+data\raw\Hazardous\pesticides\What-Are-Pesticides-8-Types-of-Pesticides-Used-in-Agriculture.jpg,hazardous,What-Are-Pesticides-8-Types-of-Pesticides-Used-in-Agriculture.jpg,81.92,True,740,414,3
+data\raw\Recyclable\cans_all_type\1292760.jpg,recyclable,1292760.jpg,72.67,True,250,386,3
+data\raw\Organic\yard_trimmings\How-To-Dispose-of-Yard-Waste-6.jpg,organic,How-To-Dispose-of-Yard-Waste-6.jpg,2678.33,True,1125,1500,3
+data\raw\Organic\yard_trimmings\depositphotos_24939463-stock-photo-garden-waste-recycling-ii.jpg,organic,depositphotos_24939463-stock-photo-garden-waste-recycling-ii.jpg,126.43,True,1024,697,3
+data\raw\Recyclable\glass_containers\SiONEER_glass_recycling_blog.jpg,recyclable,SiONEER_glass_recycling_blog.jpg,14535.81,True,5000,3337,3
+data\raw\Hazardous\pesticides\toxics-09-00042-g001.png,hazardous,toxics-09-00042-g001.png,1815.3,True,2382,2510,3
+data\raw\Hazardous\e-waste\energy-saving-bulbs-spent-incandescent-halogen-cfi-fluorescent-led-174891292.jpg,hazardous,energy-saving-bulbs-spent-incandescent-halogen-cfi-fluorescent-led-174891292.jpg,40.17,True,800,534,3
+data\raw\Hazardous\batteries\battery-directive-european-union.jpg,hazardous,battery-directive-european-union.jpg,34.56,True,613,345,3
+data\raw\Non-Recyclable\sanitary_napkin\007493272_2-ecb03bdf21bfddb1d6366f947f29352d.png,non-recyclable,007493272_2-ecb03bdf21bfddb1d6366f947f29352d.png,106.07,True,791,1024,3
+data\raw\Organic\egg_shells\depositphotos_40630785-stock-photo-pile-of-broken-eggshells.jpg,organic,depositphotos_40630785-stock-photo-pile-of-broken-eggshells.jpg,53.34,True,600,400,3
+data\raw\Non-Recyclable\platics_bags_wrappers\stic-garbage-bag-collection-streets-city-seasonal-cleaning-service-217606056.jpg,non-recyclable,stic-garbage-bag-collection-streets-city-seasonal-cleaning-service-217606056.jpg,180.28,True,1600,1157,3
+data\raw\Organic\yard_trimmings\ut-medium-brush-and-yard-waste-660x396.jpg__660.0x396.0_q85_crop_subsampling-2_upscale.jpg,organic,ut-medium-brush-and-yard-waste-660x396.jpg__660.0x396.0_q85_crop_subsampling-2_upscale.jpg,62.7,True,660,396,3
+data\raw\Recyclable\plastic_bottles\lemonade-plastic-bottles-citrus-orange-lemon-soda-water_101087-176.jpg,recyclable,lemonade-plastic-bottles-citrus-orange-lemon-soda-water_101087-176.jpg,55.37,True,626,626,3
+data\raw\Non-Recyclable\platics_bags_wrappers\arkets-for-kitchen-waste-household-plastic-waste-single-use-plastics-2E25P06.jpg,non-recyclable,arkets-for-kitchen-waste-household-plastic-waste-single-use-plastics-2E25P06.jpg,177.11,True,1300,956,3
+data\raw\Recyclable\cans_all_type\recycle-aluminum-metal-crushed-can-waste-background_293060-10750.jpg,recyclable,recycle-aluminum-metal-crushed-can-waste-background_293060-10750.jpg,112.49,True,626,417,3
+data\raw\Organic\kitchen_waste\shutterstock_574145911-2.png,organic,shutterstock_574145911-2.png,813.96,True,800,450,3
+data\raw\Non-Recyclable\ceramic_product\30322484-clay-pottery-ceramics-in-background-broken-glass-debris-design-wall.jpg,non-recyclable,30322484-clay-pottery-ceramics-in-background-broken-glass-debris-design-wall.jpg,231.24,True,1093,1300,3
+data\raw\Organic\coffee_tea_bags\IMG_20210615_140202_1_99c77e7f-6033-43bd-b5d6-bac37c2cb86b_1024x.jpg,organic,IMG_20210615_140202_1_99c77e7f-6033-43bd-b5d6-bac37c2cb86b_1024x.jpg,139.41,True,1024,1024,3
+data\raw\Organic\kitchen_waste\9f869208aab05e7a_800x800ar.jpg,organic,9f869208aab05e7a_800x800ar.jpg,64.73,True,800,599,3
+data\raw\Non-Recyclable\platics_bags_wrappers\IMG_1648.JPG.jpg,non-recyclable,IMG_1648.JPG.jpg,372.12,True,1600,1066,3
+data\raw\Hazardous\pesticides\miscellaneous-pesticides-stored-in-old-garden-shed-E672N4.jpg,hazardous,miscellaneous-pesticides-stored-in-old-garden-shed-E672N4.jpg,256.6,True,1300,953,3
+data\raw\Hazardous\e-waste\E-waste.png,hazardous,E-waste.png,224.67,True,497,493,3
+data\raw\Hazardous\paints\slide_62.jpg,hazardous,slide_62.jpg,75.85,True,960,720,3
+data\raw\Hazardous\e-waste\energy-saving-bulbs-spent-incandescent-halogen-cfi-fluorescent-led-174891292 - Copy.jpg,hazardous,energy-saving-bulbs-spent-incandescent-halogen-cfi-fluorescent-led-174891292 - Copy.jpg,40.17,True,800,534,3
+data\raw\Non-Recyclable\platics_bags_wrappers\Rajiben_Colelction_1550_1080_copy_877a0b7e-5472-4ff3-a659-a60754e5abe3_1080x1080.jpg,non-recyclable,Rajiben_Colelction_1550_1080_copy_877a0b7e-5472-4ff3-a659-a60754e5abe3_1080x1080.jpg,293.75,True,1080,1080,3
+data\raw\Recyclable\glass_containers\glass-jar-uses.jpg,recyclable,glass-jar-uses.jpg,79.5,True,1200,800,3
+data\raw\Organic\coffee_tea_bags\Teabags-and-coffee-grounds.jpg,organic,Teabags-and-coffee-grounds.jpg,141.75,True,688,688,3
+data\raw\Recyclable\cans_all_type\depositphotos_437224758-stock-photo-recycle-empty-cans-tin-food.jpg,recyclable,depositphotos_437224758-stock-photo-recycle-empty-cans-tin-food.jpg,83.96,True,600,400,3
+data\raw\Hazardous\e-waste\ewaste-recycling.jpg,hazardous,ewaste-recycling.jpg,68.6,True,600,400,3
+data\raw\Recyclable\paper_products\13.20WEB-IMAGES-Paper-216x216.jpg,recyclable,13.20WEB-IMAGES-Paper-216x216.jpg,251.65,True,900,900,3
+data\raw\Non-Recyclable\platics_bags_wrappers\lawn-in-a-park-concept-of-cleaning-up-and-respecting-the-environment-2J44BFF.jpg,non-recyclable,lawn-in-a-park-concept-of-cleaning-up-and-respecting-the-environment-2J44BFF.jpg,127.48,True,1300,956,3
+data\raw\Hazardous\e-waste\electronic-waste-e-waste - Copy.jpg,hazardous,electronic-waste-e-waste - Copy.jpg,334.9,True,1600,1600,3
+data\raw\Non-Recyclable\diapers\392089940-melons_550x550.jpg,non-recyclable,392089940-melons_550x550.jpg,48.21,True,550,550,3
+data\raw\Hazardous\e-waste\lightbulb-average-rated-lifetime-hours-1 - Copy.jpg,hazardous,lightbulb-average-rated-lifetime-hours-1 - Copy.jpg,84.64,True,900,450,3
+data\raw\Non-Recyclable\platics_bags_wrappers\91t-2KbjSxL._AC_UF8941000_QL80_.jpg,non-recyclable,91t-2KbjSxL._AC_UF8941000_QL80_.jpg,242.66,True,894,980,3
+data\raw\Hazardous\e-waste\What-is-e-waste-Great-Lakes-Electronics-Corporation-collection.jpg,hazardous,What-is-e-waste-Great-Lakes-Electronics-Corporation-collection.jpg,92.35,True,800,600,3
+data\raw\Recyclable\plastic_bottles\aaede33392224d85fc52e77638a88bda.jpg,recyclable,aaede33392224d85fc52e77638a88bda.jpg,142.14,True,700,1000,3
+data\raw\Hazardous\pesticides\a-range-of-garden-pesticides-insecticides-found-within-a-household-GKNDHJ.jpg,hazardous,a-range-of-garden-pesticides-insecticides-found-within-a-household-GKNDHJ.jpg,140.12,True,1300,956,3
+data\raw\Recyclable\cans_all_type\tin-can-projects.jpg,recyclable,tin-can-projects.jpg,178.07,True,1000,523,3
+data\raw\Non-Recyclable\ceramic_product\p037kb0l.jpg,non-recyclable,p037kb0l.jpg,88.65,True,1040,1040,3
+data\raw\Hazardous\e-waste\Noteable_ewaste_main-760x378 - Copy.jpg,hazardous,Noteable_ewaste_main-760x378 - Copy.jpg,139.59,True,760,378,3
+data\raw\Non-Recyclable\diapers\lain-dibuang-dipinggiran-sungai-di-Sleman-Jogja.-foto-Tommy-Apriando-768x512.jpg,non-recyclable,lain-dibuang-dipinggiran-sungai-di-Sleman-Jogja.-foto-Tommy-Apriando-768x512.jpg,114.56,True,768,512,3
+data\raw\Hazardous\paints\Mixed_Brand_Solvents_Atmos_2.jpg,hazardous,Mixed_Brand_Solvents_Atmos_2.jpg,856.07,True,5477,3651,3
+data\raw\Organic\food_scraps\fpiikgio_food-waste-istock-650_650x400_05_March_21.jpg,organic,fpiikgio_food-waste-istock-650_650x400_05_March_21.jpg,47.97,True,650,400,3
+data\raw\Hazardous\pesticides\insecticides-and-pesticides.jpeg,hazardous,insecticides-and-pesticides.jpeg,59.01,True,1000,1000,3
+data\raw\Hazardous\e-waste\lightbulb-recycling - Copy.jpg,hazardous,lightbulb-recycling - Copy.jpg,38.76,True,300,300,3
+data\raw\Non-Recyclable\stroform_product\styrofoam-packaging-peanuts-DM6D71.jpg,non-recyclable,styrofoam-packaging-peanuts-DM6D71.jpg,129.75,True,1300,956,3
